@@ -1,0 +1,18 @@
+body {
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #fcfcfe;
+    background-image: radial-gradient(at bottom, rgba(130, 190, 230, 5), transparent 90%);
+    margin: 0;
+}
+
+header {
+    background-color: #160211;
+    height: 50px;
+    width: 100%;
+    margin: 0;
+    position: fixed;
+    top: 0;
+}
